@@ -1,0 +1,77 @@
+body{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+  color: yellow;
+  background-color: red;
+  border-radius: 5px;
+  box-shadow: 2px 3px 1px rgb(55 76 89),-2px -3px 1px rgb(43 90 150);
+  font-family: Times New Roman;
+}
+
+  .div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    position: relative;
+
+    box-shadow: 2px 3px 1px rgb(55 76 89),-2px -3px 1px rgb(43 90 150);
+    border-radius: 5px;
+    height:865px;
+    width: 800px;
+    margin:200px auto;
+  }
+  
+div input{
+  position: relative;
+  margin-top: 15px;
+  box-shadow: 2px 2px 1px yellow,-2px -2px 1px rgb(129 30 90);
+  border-radius: 5px;
+}
+div select{
+  position: relative;
+  margin-top: 15px;
+  box-shadow: 2px 2px 1px yellow,-2px -2px 1px rgb(129 30 90);
+  border-radius: 5px;
+}
+.footer{
+  background-color: black;
+  color: yellow;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 2px 1px red,-2px -2px 1px rgb(129 30 90);
+}
+footer{
+  position: absolute;
+  margin-bottom:0px;
+  background-color: red;
+  justify-content: center;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 10px;
+  width: 100%;
+}
+.copy{
+  background-color: tomato;
+  position: relative;
+  margin-top: 5px;
+  width: 100%;
+  border-radius: 5px;
+  font-family: Times New Roman;
+}
+.explain{
+  position: relative;
+  margin-top: 15px;
+  color: white;
+}
+div h2{
+  position: relative;
+color: yellow;
+}
+icon{
+  position: relative;
+  margin-top: 2px;
+}
